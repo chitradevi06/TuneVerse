@@ -3,6 +3,13 @@
 A modern music streaming web app built using **React JS** that lets users explore and play songs from various genres with a sleek UI and real-time data from the Shazam API.
 
 ---
+## Author
+
+Made with ❤️ by Chitra Devi
+
+
+
+---
 
 ## 🚀 Features
 
@@ -35,6 +42,11 @@ npm install
 # Run the app
 npm run dev
 
-Made with ❤️ by Chitra Devi
+
+
+
+
+
+
 
 
