@@ -34,3 +34,7 @@ npm install
 
 # Run the app
 npm run dev
+
+Made with ❤️ by Chitra Devi
+
+
